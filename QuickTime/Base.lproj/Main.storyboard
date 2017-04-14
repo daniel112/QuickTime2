@@ -821,7 +821,7 @@
                                     <color key="titleColor" red="0.99004197962194673" green="0.97289303512705605" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="Cwd-0V-ufd" kind="unwind" unwindAction="unwindToThisViewControllerWithSegue:" id="nWC-rI-6ZF"/>
+                                    <segue destination="BYZ-38-t0r" kind="show" id="a76-kI-96p"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nI7-vs-vpK">
@@ -924,7 +924,6 @@
                         <outlet property="whiteText" destination="eBi-rH-XEB" id="CPh-xs-ycb"/>
                     </connections>
                 </viewController>
-                <exit id="Cwd-0V-ufd" userLabel="Exit" sceneMemberID="exit"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pUa-SX-f0r" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1928.8" y="138.98050974512745"/>
@@ -1120,4 +1119,7 @@
         <image name="red_circle.png" width="36" height="36"/>
         <image name="topBox.png" width="190" height="47"/>
     </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="a76-kI-96p"/>
+    </inferredMetricsTieBreakers>
 </document>

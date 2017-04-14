@@ -46,7 +46,7 @@
 		65AE7CAF1E7E494E00FF1C20 /* Game1HSViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Game1HSViewController.swift; sourceTree = "<group>"; };
 		65AE7CB11E7E496100FF1C20 /* HS1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HS1ViewController.swift; sourceTree = "<group>"; };
 		65AE7CB31E7E496800FF1C20 /* HS2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HS2ViewController.swift; sourceTree = "<group>"; };
-		65AE7CB51E7F1B2F00FF1C20 /* blankProfile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blankProfile.png; sourceTree = SOURCE_ROOT; };
+		65AE7CB51E7F1B2F00FF1C20 /* blankProfile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blankProfile.png; sourceTree = "<group>"; };
 		65EB5DB21E7AF9E800DA2177 /* QuickTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65EB5DB51E7AF9E800DA2177 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65EB5DB71E7AF9E800DA2177 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,18 +55,18 @@
 		65EB5DBF1E7AF9E800DA2177 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65EB5DC21E7AF9E800DA2177 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65EB5DC41E7AF9E800DA2177 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		65EB5DCA1E7AFCAD00DA2177 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = SOURCE_ROOT; };
-		65EB5DD01E7B01FD00DA2177 /* box1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = box1.png; sourceTree = SOURCE_ROOT; };
-		65EB5DD21E7B03F900DA2177 /* topBox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = topBox.png; sourceTree = SOURCE_ROOT; };
-		65EB5DD61E7B06BE00DA2177 /* idleButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = idleButton.png; sourceTree = SOURCE_ROOT; };
-		65EB5DD81E7B075000DA2177 /* buttonPress.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttonPress.png; sourceTree = SOURCE_ROOT; };
+		65EB5DCA1E7AFCAD00DA2177 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		65EB5DD01E7B01FD00DA2177 /* box1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = box1.png; sourceTree = "<group>"; };
+		65EB5DD21E7B03F900DA2177 /* topBox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = topBox.png; sourceTree = "<group>"; };
+		65EB5DD61E7B06BE00DA2177 /* idleButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = idleButton.png; sourceTree = "<group>"; };
+		65EB5DD81E7B075000DA2177 /* buttonPress.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttonPress.png; sourceTree = "<group>"; };
 		65EB5DDA1E7B0C2100DA2177 /* PlayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayViewController.swift; sourceTree = "<group>"; };
 		65EB5DE41E7B477D00DA2177 /* PopUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopUpViewController.swift; sourceTree = "<group>"; };
-		65EB5DE61E7B500300DA2177 /* greenBox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenBox.png; sourceTree = SOURCE_ROOT; };
-		65EB5DF11E7B531E00DA2177 /* blue_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blue_circle.png; sourceTree = SOURCE_ROOT; };
-		65EB5DF31E7B582A00DA2177 /* green_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green_circle.png; sourceTree = SOURCE_ROOT; };
-		65EB5DF51E7B583100DA2177 /* grey_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grey_circle.png; sourceTree = SOURCE_ROOT; };
-		65EB5DF71E7B583600DA2177 /* red_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_circle.png; sourceTree = SOURCE_ROOT; };
+		65EB5DE61E7B500300DA2177 /* greenBox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenBox.png; sourceTree = "<group>"; };
+		65EB5DF11E7B531E00DA2177 /* blue_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blue_circle.png; sourceTree = "<group>"; };
+		65EB5DF31E7B582A00DA2177 /* green_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green_circle.png; sourceTree = "<group>"; };
+		65EB5DF51E7B583100DA2177 /* grey_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grey_circle.png; sourceTree = "<group>"; };
+		65EB5DF71E7B583600DA2177 /* red_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_circle.png; sourceTree = "<group>"; };
 		65EB5DF91E7B5A5E00DA2177 /* ColorGameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ColorGameViewController.swift; path = ../ColorGameViewController.swift; sourceTree = "<group>"; };
 		65EB5DFB1E7C4C7800DA2177 /* queue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = queue.swift; sourceTree = "<group>"; };
 		65EB5DFD1E7C4D8A00DA2177 /* linkedlist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = linkedlist.swift; sourceTree = "<group>"; };
@@ -150,6 +150,7 @@
 				65EB5DD81E7B075000DA2177 /* buttonPress.png */,
 			);
 			name = images;
+			path = ../images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
