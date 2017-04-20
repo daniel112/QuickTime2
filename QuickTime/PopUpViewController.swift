@@ -81,6 +81,9 @@ class PopUpViewController: UIViewController {
     }
     
     
+    @IBAction func aboutButton(_ sender: Any) {
+        self.removeAnimate()
+    }
     func showAlert(service:String)
     {
         let alert = UIAlertController(title: "Error", message: "You aren't connected to \(service)", preferredStyle: .alert)

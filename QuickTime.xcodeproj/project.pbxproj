@@ -15,6 +15,7 @@
 		65AE7CB21E7E496100FF1C20 /* HS1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AE7CB11E7E496100FF1C20 /* HS1ViewController.swift */; };
 		65AE7CB41E7E496800FF1C20 /* HS2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AE7CB31E7E496800FF1C20 /* HS2ViewController.swift */; };
 		65AE7CB61E7F1B2F00FF1C20 /* blankProfile.png in Resources */ = {isa = PBXBuildFile; fileRef = 65AE7CB51E7F1B2F00FF1C20 /* blankProfile.png */; };
+		65BF1E101EA97D5C00891F1E /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BF1E0F1EA97D5C00891F1E /* AboutViewController.swift */; };
 		65EB5DB61E7AF9E800DA2177 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EB5DB51E7AF9E800DA2177 /* AppDelegate.swift */; };
 		65EB5DB81E7AF9E800DA2177 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EB5DB71E7AF9E800DA2177 /* ViewController.swift */; };
 		65EB5DBB1E7AF9E800DA2177 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65EB5DB91E7AF9E800DA2177 /* Main.storyboard */; };
@@ -47,6 +48,7 @@
 		65AE7CB11E7E496100FF1C20 /* HS1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HS1ViewController.swift; sourceTree = "<group>"; };
 		65AE7CB31E7E496800FF1C20 /* HS2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HS2ViewController.swift; sourceTree = "<group>"; };
 		65AE7CB51E7F1B2F00FF1C20 /* blankProfile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blankProfile.png; sourceTree = "<group>"; };
+		65BF1E0F1EA97D5C00891F1E /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		65EB5DB21E7AF9E800DA2177 /* QuickTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65EB5DB51E7AF9E800DA2177 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65EB5DB71E7AF9E800DA2177 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				65EB5DF91E7B5A5E00DA2177 /* ColorGameViewController.swift */,
 				65EB5DB71E7AF9E800DA2177 /* ViewController.swift */,
 				65EB5DB91E7AF9E800DA2177 /* Main.storyboard */,
+				65BF1E0F1EA97D5C00891F1E /* AboutViewController.swift */,
 				65AE7CAD1E7E494500FF1C20 /* game2HSViewController.swift */,
 				65AE7CAF1E7E494E00FF1C20 /* Game1HSViewController.swift */,
 				65AE7CB11E7E496100FF1C20 /* HS1ViewController.swift */,
@@ -251,6 +254,7 @@
 				65AE7CB01E7E494E00FF1C20 /* Game1HSViewController.swift in Sources */,
 				65EB5DB61E7AF9E800DA2177 /* AppDelegate.swift in Sources */,
 				65EB5DFE1E7C4D8A00DA2177 /* linkedlist.swift in Sources */,
+				65BF1E101EA97D5C00891F1E /* AboutViewController.swift in Sources */,
 				65EB5DFC1E7C4C7800DA2177 /* queue.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
